@@ -1,4 +1,5 @@
-# Тестовое задание на позицию "Ведущий специалист (Разработчик No-Code)".
+# Тестовое задание на позицию "Ведущий специалист 
+(Разработчик No-Code)".
 
 ---
 
@@ -17,13 +18,13 @@
 ## Задание №2
 ### Скрин запроса:
 ![POST-запрос](images%2Fpost.png)
-### Query params (API-key замазан):
+### Query Params (API-key замазан):
 ![query params.png](images%2Fquery%20params.png)
 ### Результат запроса (scan): 
 ![json_scan.png](images%2Fjson_scan.png)
 ### Результат запроса (result): 
 ![json_result.png](images%2Fjson_result.png)
-#### [Ссылка на JSON с полным результатом сканирования.]()
+#### [Ссылка на JSON с полным результатом сканирования.](https://github.com/stockholmkingg/softline_tz/blob/main/files/scan_result.json)
 ### Authorization (API-key замазан):
 ![authorization.png](images%2Fauthorization.png)
 ### Headers:
@@ -39,3 +40,7 @@
 ---
 
 ## Задание №3.
+![diagram.png](images%2Fdiagram.png)
+![diagram (1).png](images%2Fdiagram%20%281%29.png)
+![diagram (2).png](images%2Fdiagram%20%282%29.png)
+![diagram (3).png](images%2Fdiagram%20%283%29.png)
