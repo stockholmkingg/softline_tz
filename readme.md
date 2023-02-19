@@ -1,5 +1,4 @@
-# Тестовое задание на позицию "Ведущий специалист 
-(Разработчик No-Code)".
+# Тестовое задание на позицию "Ведущий специалист (Разработчик No-Code)".
 
 ---
 
@@ -41,6 +40,3 @@
 
 ## Задание №3.
 ![diagram.png](images%2Fdiagram.png)
-![diagram (1).png](images%2Fdiagram%20%281%29.png)
-![diagram (2).png](images%2Fdiagram%20%282%29.png)
-![diagram (3).png](images%2Fdiagram%20%283%29.png)
